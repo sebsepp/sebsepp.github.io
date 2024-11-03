@@ -1,0 +1,85 @@
+/* Reset some default styling */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif; /* Choose a clean, sans-serif font */
+  color: #333; /* Dark gray text for readability */
+  background-color: #f9f9f9; /* Light background color */
+  line-height: 1.6; /* Adds readability to the text */
+  padding: 20px; /* Adds spacing around the edges */
+}
+
+/* Container for centering and max width */
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Header style */
+header {
+  text-align: center;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #ddd;
+}
+
+h1 {
+  font-size: 2rem;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+p {
+  margin-bottom: 20px; /* Adds spacing between paragraphs */
+}
+
+/* Simple button style */
+button, .button {
+  background-color: #333;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1rem;
+}
+
+button:hover, .button:hover {
+  background-color: #555;
+}
+
+/* Link styling */
+a {
+  color: #333;
+  text-decoration: none;
+  border-bottom: 1px solid #ddd;
+}
+
+a:hover {
+  color: #555;
+  border-bottom: 1px solid #555;
+}
+
+/* Footer styling */
+footer {
+  text-align: center;
+  margin-top: 40px;
+  font-size: 0.9rem;
+  color: #888;
+}
+
+/* Basic responsive image style */
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+
+/* Layout sections with space between */
+section {
+  margin-bottom: 30px;
+}
