@@ -1,7 +1,7 @@
-<!DOCTYPE hmtl>
+<!DOCTYPE html>
 <html>
   <head>
-    <title> sebastian hacker  </title>
+    <title> sebastian hacker </title>
     <link rel="stylesheet" href="css/style.css">
   </head>
 
@@ -10,5 +10,17 @@
 
     <p> welcome to my website! currently there's not much going on here 👀</p>
     <p> so feel free to come back later and see what has changed 🌱</p>
+
+    <!-- footer container -->
+    <div id="footer"></div>
+
+    <!-- script to load the footer from footer.html -->
+    <script>
+      fetch('footer.html')
+        .then(response => response.text())
+        .then(data => {
+          document.getElementById('footer').innerHTML = data;
+        });
+    </script>
   </body>
 </html>
