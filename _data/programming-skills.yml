@@ -2,10 +2,10 @@
   percentage: 90
   color: danger
 
-- name: Go
+- name: R
   percentage: 80
   color:
 
-- name: Python
+- name: Ruby
   percentage: 70
   color: secondary
