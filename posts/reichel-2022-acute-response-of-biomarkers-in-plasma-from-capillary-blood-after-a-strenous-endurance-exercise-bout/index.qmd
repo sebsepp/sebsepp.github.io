@@ -1,0 +1,39 @@
+---
+title: "Acute response of biomarkers in plasma from capillary blood after a strenuous endurance exercise bout"
+subtitle: "*European Journal of Applied Physiology*"
+author: 
+    - Thomas Reichel
+    - Steffen Held
+    - Anthony Schwarz
+    - <strong>Sebastian Hacker</strong>
+    - Fabian Wesemann
+    - Lars Donath
+    - name: Karsten Krüger
+      email: karsten.krueger@sport.uni-giessen.de
+date: "2022-10-13"
+doi: https://doi.org/10.1007/s00421-022-05068-1
+image: "fig1-snippet.png"
+#categories: [news]
+---
+
+# Abstract
+
+## Purpose
+<p style="text-align: justify">
+The present study aims to investigate the acute response of potential exercise-sensitive biomarkers in capillary plasma to an acute incremental running test. In a second step, their concentration was compared to the changes in the venous serum. 
+</p>
+
+## Methods 
+<p style="text-align: justify">
+Thirty-seven active young female and male adults completed a VO2max ramp test on a treadmill. Before and after exercise, capillary blood from the earlobe and venous blood were taken and synchronized. Concentrations of Interleukin- (IL-) 1β, IL-1ra, IL-6, IL-8, IL-17A, Interferon (IFN)-y, CC-chemokine ligand (CCL)-2, Matrix metallopeptidase (MMP)-9, Secreted protein acidic and rich in cysteine (SPARC), Cluster of differentiation (CD)163, S100 Ca²⁺ -binding protein (S100) A8, S100A9, S100B, Brain-derived neurotrophic factor (BDNF), and Myeloperoxidase (MPO) were determined by magnetic bead-based multiplex assay. 
+</p>
+
+## Results 
+<p style="text-align: justify">
+Capillary plasma concentrations of IL-1β, IL-6, IL-8, IL-17A, IFN-y, CCL-2, MMP-9, SPARC, CD163, S100A9, S100B, and BDNF increased after exercise (p < 0.05). Comparing the values from capillary plasma and venous serum, ICCs classified as good were found for IFN-y (post), while the ICCs for IL-1β, IL-8, IL-17A, CCL-2, MMP-9 (post), SPARC, and BDNF (post) were classified as moderate. For all other parameters, only weak ICCs were found. 
+</p>
+
+## Conclusion 
+<p style="text-align: justify">
+As in the venous serum, there was an increase in most markers in the capillary plasma. However, acceptable to low associations can be found in the concentration levels of these proteins between the compartments. Thus, this source of blood sampling could find some biomarker applications in sports practice.
+</p>

@@ -1,0 +1,20 @@
+---
+title: "Acute Effects of Aerobic Exercise on Cognitive Attention and Memory Performance: An Investigation on Duration-Based Dose-Response Relations and the Impact of Increased Arousal Levels"
+subtitle: "*Journal of Clinical Medicine*"
+author: 
+    - <strong>Sebastian Hacker</strong>
+    - Winfried Eberhard Banzer
+    - Lutz Vogt
+    - name: Tobias Engeroff
+      email: engeroff@sport.uni-frankfurt.de
+date: "2020-05-08"
+doi: https://doi.org/10.3390/jcm9051380
+image: "table1.png"
+#categories: [news]
+---
+
+# Abstract
+<hr>
+<p style="text-align: justify">
+Current evidence indicates that acute aerobic exercise might increase domain-specific cognitive performance. However, only a small number of studies deduced the impact on lower and higher cognitive functions systematically or analyzed dose–response relationships and the underlying mechanisms. This study aimed to expose the dose–response relationships by investigating the influence of exercise duration on subjective and objective arousal, cognitive attention and visual recognition memory tasks. Nineteen participants (eight female; 25.69 ± 3.11 years) were included in a randomized, three-armed intervention study in a cross-over design. The participants completed three different interventions consisting of either 15, 30 or 45 min of cycling at 60–70% VO2max. Arousal and cognitive measurements were taken before and immediately after (<2 min) exercise. All three interventions led to significant but comparable effects on self-perceived arousal, heart rate (HR) and rating of perceived exertion (RPE) (p < 0.05). Analysis of variance (ANOVA) indicated significant effects of exercise duration on visual recognition memory accuracy. Reaction times for higher and lower cognitive tasks did not change after exercise. Fifteen minutes of aerobic exercise was feasible to induce beneficial changes in self-perceived arousal. Processing speed of visual recognition memory and attention remained unaltered. Exercise exceeding fifteen minutes seemed to negatively impact visual recognition memory accuracy.
+</p>

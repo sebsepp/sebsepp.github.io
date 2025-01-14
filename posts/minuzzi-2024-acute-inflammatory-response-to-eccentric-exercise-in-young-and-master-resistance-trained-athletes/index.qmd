@@ -1,0 +1,25 @@
+---
+title: "Acute Inflammatory Response to Eccentric Exercise in Young and Master Resistance-trained Athletes"
+subtitle: "*International Journal of Sports Medicine*"
+author: 
+    - name: Luciele Minuzzi
+      email: lucielegm@gmail.com
+    - Alexander Ferrauti
+    - Matheus Uba Chupel
+    - <strong>Sebastian Hacker</strong>
+    - Christopher Weyh
+    - Pedro L. Valenzuela
+    - Alejandro Lucia
+    - Karsten Krüger
+    - Thomas Reichel
+date: "2024-07-28"
+doi: https://doi.org/10.1055/a-2348-0238
+image: "fig1-snippet.png"
+#categories: [news]
+---
+
+# Abstract
+<hr>
+<p style="text-align: justify">
+This study aimed to compare the acute inflammatory response following high-intensity eccentric exercise between resistance-trained young and master athletes with similar performance levels. Resistance-trained young (n=8; 22±2 years) and master (n=8; 52±4 years) male athletes of a similar performance level performed a standardized high-intensity eccentric squat exercise protocol (10 sets of half-squats at 70% of 1-repetition maximum). The serum concentration of 20 biomarkers related to tissue damage, inflammation, remodeling, and repair was measured at baseline, immediately after exercise, and over a 72 h recovery period. Both groups experienced similar muscle damage as evidenced by a comparable increase in creatine kinase activity 24 h after exercise (p<0.001). Interleukin-6 (p=0.009) and growth hormone (p<0.001) increased immediately post-exercise in both groups. Monocyte chemoattractant protein-1 increased immediately post-exercise only in young athletes (p=0.003) and then decreased 24 h later. There were no significant differences for the remaining variables, including cell markers related to neutrophil/macrophage activation or pro/anti-inflammatory cytokines. Resistance-trained young and master athletes, matched for performance level, showed an overall similar inflammatory response to eccentric exercise, possibly reflecting regulatory mechanisms or immunological adaptations to chronic stimulation in master athletes.
+</p>

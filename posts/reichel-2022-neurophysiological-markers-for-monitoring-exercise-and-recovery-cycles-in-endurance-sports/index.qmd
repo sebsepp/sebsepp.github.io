@@ -1,0 +1,27 @@
+---
+title: "Neurophysiological Markers for Monitoring Exercise and Recovery Cycles in Endurance Sports"
+subtitle: "*Journal of Sports Science & Medicine*"
+author: 
+    - name: Thomas Reichel
+      email: thomas.reichel@sport.uni-giessen.de
+    - <strong>Sebastian Hacker</strong>
+    - Jana Palmowski
+    - Tim Boßlau
+    - Torsten Frech
+    - Paulos Tirekoglou
+    - Christopher Weyh
+    - Evita Bothur
+    - Stefan Samel
+    - Rüdiger Walscheid
+    - Karsten Krüger
+date: "2022-09-01"
+doi: https://doi.org/10.52082/jssm.2022.446
+image: "fig1-snippet.png"
+#categories: [news]
+---
+
+# Abstract
+<hr>
+<p style="text-align: justify">
+The current study analyzes the suitability and reliability of selected neurophysiological and vegetative nervous system markers as biomarkers for exercise and recovery in endurance sport. Sixty-two healthy men and women, endurance trained and moderately trained, performed two identical acute endurance tests (running trial 1 and running trial 2) followed by a washout period of four weeks. Exercise protocol consisted of an acute running trial lasting 60 minutes. An intensity corresponding to 95% of the heart rate at individual anaerobic threshold for 40 minutes was followed by 20 minutes at 110%. At pre-exercise, post-exercise, three hours post-exercise and 24 hours post-exercise, experimental diagnostics on Brain-derived neurotrophic factor (BDNF), heart rate variability (HRV), Stroop Color and Word Test (SCWT), and Short-Form McGill Pain Questionnaire (SF-MPQ) were performed. Significant changes over time were found for all parameters (p < .05). Furthermore, there was an approached statistical significance in the interaction between gender and training status in BDNF regulation (F(3) = 2.43; p = 0.06), while gender differences were found only for LF/HF-ratio (3hPoEx, F(3) = 3.40; p = 0.002). Regarding the reliability, poor ICC-values (< 0.5) were found for BDNF, Stroop sensitivity and pNN50, while all other parameters showed moderate ICC-values (0.5-0.75). Plasma-BDNF, SCWT performance, pain perception and all HRV parameters are suitable exercise-sensitive markers after an acute endurance exercise. Moreover, pain perception, SCWT reaction time and all HRV parameters show a moderate reliability, others rather poor. In summary, a selected neurophysiological and vegetative marker panel can be used to determine exercise load and recovery in endurance sports, but its repeatability is limited due to its vaguely reliability.
+</p>

@@ -1,0 +1,26 @@
+---
+title: "about"
+image: portrait.jpeg
+about:
+  template: jolla
+  image-width: 20em
+  image-shape: round
+  links:
+    - icon: github
+      text: github
+      href: https://www.github.com/sebsepp
+      target: blank
+    - icon: instagram
+      text: instagram
+      href: https://www.instagram.com/seb.sepp
+      target: blank
+    - icon: linkedin
+      text: linkedin
+      href: https://www.linkedin.com/in/sebastianhacker
+      target: blank
+    - icon: envelope
+      text: contact
+      href: mailto:sebastian.hacker@sport.uni-giessen.de
+---
+
+hi 👋

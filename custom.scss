@@ -1,0 +1,53 @@
+/*-- scss:defaults --*/
+$primary: #1A535C;
+$secondary: #ff8000;
+
+$navbar-bg: $primary;
+$footer-bg: $primary;
+$footer-fg: #ffffff;
+$link-color: $secondary;
+
+/*-- scss:rules --*/
+
+/*-- adjust navigation bar --*/
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
+    color: var(--bs-secondary);
+    }
+
+/*---------------------------------------- lines ----------------------------------------*/
+/*-- adjust horizontal rule --*/
+hr {
+    border-top: 2px solid #D6DADE;  
+    }
+
+/*---------------------------------------- footer ----------------------------------------*/
+/*-- adjust footer --*/
+footer p {
+    padding-top: .75em;
+    }
+
+/*---------------------------------------- publications ----------------------------------------*/
+/*-- adjust card title font weight --*/
+.quarto-grid-item .card-title {
+    font-weight: bold;
+    }
+
+/*-- adjust card subtitle --*/
+.card-subtitle {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: var(--bs-card-subtitle-color);
+    }
+
+/*---------------------------------------- images ----------------------------------------*/
+img {
+    object-position: 100% 30%;
+    }
+
+/*--------------------------------------- lists ---------------------------------------*/
+/*-- adjust space between list items --*/
+ul {
+    list-style-position: inside;
+    padding-left: 0;
+    margin-left: 0;
+    }

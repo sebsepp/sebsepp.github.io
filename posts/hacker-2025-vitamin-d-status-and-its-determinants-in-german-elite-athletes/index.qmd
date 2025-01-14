@@ -1,0 +1,38 @@
+---
+title: "Vitamin D Status and Its Determinants in German Elite Athletes"
+subtitle: "*European Journal of Applied Physiology*"
+author: 
+    - name: <strong>Sebastian Hacker</strong>
+      email: sebastian.hacker@sport.uni-giessen.de
+    - Claudia Lenz
+    - Lukas Reichert
+    - Robert Ringseis
+    - Karen Zentgraf
+    - Karsten Krüger
+date: "2025-01-04"
+doi: https://doi.org/10.1007/s00421-024-05699-6
+#categories: [research, code, analysis]
+image: "fig2.png"
+---
+
+# Abstract
+
+## Purpose
+<p style="text-align: justify">
+This study investigated elite German athletes to (1) assess their serum 25(OH)D levels and the prevalence of insufficiency, (2) identify key factors influencing serum 25(OH)D levels, and (3) analyze the association between serum 25(OH) D levels and handgrip strength. 
+</p>
+
+## Methods 
+<p style="text-align: justify">
+In this cross-sectional study, a total of 474 athletes (231 female), aged 13–39 years (mean 19.3 years), from ten Olympic disciplines were included. Serum 25(OH)D levels were analyzed via liquid chromatography–mass spectrometry, and 17 single nucleotide polymorphisms (SNPs) related to vitamin D metabolism were determined using leukocyte DNA. Grip strength was measured unimanually using a hand-held dynamometer. Multiple linear regressions were used to analyze the influence of SNPs, age, sex, season (summer vs. winter), and discipline (indoor vs. outdoor) on 25(OH)D status. Linear regression analyzed the relationship between handgrip strength and serum 25(OH)D levels. 
+</p>
+
+## Results 
+<p style="text-align: justify">
+In total, 55.5% (n = 263) of athletes demonstrated insufficient serum 25(OH)D levels (<30 ng/mL, <75 nmol/L), with 16% (n = 76) showing levels below 20 ng/mL (50 nmol/L). After correction for multiple testing, significant influences on  25(OH)D levels were observed for the C allele of VDBP rs7041 (AC Genotype: β = 7.46, p < .001; CC Genotype: β = 6.23, p = .001). Age (all p < .01) and discipline (indoor vs. outdoor; all p < .05) also influenced serum 25(OH)D levels. Furthermore,  serum 25(OH)D was positively associated with handgrip strength (β = 0.01, p < .001). 
+</p>
+
+## Conclusion 
+<p style="text-align: justify">
+A high prevalence of insufficient 25(OH)D levels (<30 ng/mL, <75 nmol/L) was observed. We identified certain genetic variants as well as age and discipline as predictors of serum 25(OH)D levels. This knowledge may guide individualized diagnostic, nutritional, and supplementation strategies.
+</p>

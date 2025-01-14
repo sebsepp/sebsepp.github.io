@@ -1,0 +1,77 @@
+---
+title: "Advocating individual-based profiles of elite athletes to capture the multifactorial nature of elite sports performance"
+subtitle: "*Scientific Reports*"
+author: 
+    - name: Karen Zentgraf
+      email: zentgraf@sport.uni-frankfurt.de
+      affiliations:
+        - ref: ffm
+    - name: Lisa Musculus
+      affiliations:
+        - ref: col
+    - name: Lukas Reichert
+      affiliations:
+        - ref: ffm
+    - name: Laura Will
+      affiliations:
+        - ref: col
+    - name: Andrea Roffler
+      affiliations:
+        - ref: ffm
+    - name: <strong>Sebastian Hacker</strong>
+      affiliations:
+        - ref: jlu
+    - name: Celine Hilpisch
+      affiliations:
+        - ref: jlu
+    - name: Kati Wiedenbrüg
+      affiliations:
+        - ref: wid
+    - name: Nora Cermak
+      affiliations:
+        - ref: ffm
+    - name: Claudia Lenz
+      affiliations:
+        - ref: jlu
+    - name: Hanna de Haan
+      affiliations:
+        - ref: col
+    - name: Michael Mutz
+      affiliations:
+        - ref: jlu
+    - name: Lena Wiese
+      affiliations:
+        - ref: ffm
+    - name: Ahmed Al-Ghezi
+      affiliations:
+        - ref: ffm
+    - name: Markus Raab
+      affiliations:
+        - ref: col
+    - name: Karsten Krüger
+      affiliations:
+        - ref: jlu
+affiliations:
+  - id: jlu
+    name: Justus Liebig University Giessen
+    city: Gießen
+  - id: ffm
+    name: Goethe University Frankfurt am Main
+    city: Frankfurt am Main
+  - id: col
+    name: German Sport University Cologne
+    city: Cologne
+  - id: wid
+    name: Martin-Luther University Halle-Wittenberg
+    city: Halle
+date: "2024-11-01"
+doi: https://doi.org/10.1038/s41598-024-76977-8
+image: "fig1.png"
+#categories: [news]
+---
+
+# Abstract
+<hr>
+<p style="text-align: justify">
+Elite athletes are high-performance outliers within their specific sports. Even though science seeks to understand the nature of expertise and elite performance, much knowledge remains compartmentalized within subdisciplines. Despite this multidimensionality being acknowledged, an interdisciplinary approach to understanding elite athletes is still rare. This paper synthesizes insights across scientific domains in order to describe the population and individual characteristics of elite athletes. We analyzed diagnostic data from approximately 300 German squad athletes across eight different sports (e.g., gymnastics, volleyball, ice hockey, 3 × 3 basketball etc., agefemale = 18.95 ± 4.84 years, agemale = 19.32 ± 4.19 years) with expertise values ranging from 2 (low expertise) to 16 (high expertise). Data covered muscular strength, lower-body dynamics, muscle-power genetics, blood micronutrients, basic cognitive function, mental health, social support, and training conditions. Results of logistic regressions identified basic cognitive function (B = 0.89) and well-balanced blood micronutrients (B = 1.22) as critical factors distinguishing elite athletes. Additionally, multiple linear regressions suggested that lower-body dynamics (ß = 0.72) is related to increasing expertise values. We examined interactions between determinants of elite performance, and found that social support is positively associated with mental health and training conditions, whereas muscular strength correlates with lower-body dynamics. Focusing on top elite athletes in contrast to semi-elite athletes, we found higher within-group similarities in basic cognitive function and blood micronutrients. Findings indicate the need for a systemic, individualized, and comprehensive model using individual-based profiles.
+</p>

@@ -1,0 +1,39 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "sebastian hacker"
+  favicon: "images/favicon.png"
+  navbar:
+    left:
+      - text: about
+        href: index.qmd
+      - text: publications
+        href: publications.qmd
+      - text: resume
+        href: resume.qmd 
+    right:
+      # - text: about
+      #   href: index.qmd
+      - icon: github
+        href: https://github.com/sebsepp
+        target: blank
+  page-footer:
+    center: "© 2025 by Sebastian Hacker"
+    # right:
+    #   - icon: github
+    #     href: https://github.com/sebsepp
+    #     target: blank
+    #   - icon: linkedin
+    #     href: https://www.linkedin.com/in/sebastianhacker/
+    #     target: blank
+format:
+  html:
+    theme: 
+      - cosmo
+      - custom.scss
+    #include-after-body: footer.html
+
+editor: source
+

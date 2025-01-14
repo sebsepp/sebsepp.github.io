@@ -1,0 +1,26 @@
+---
+title: "Recovery-Stress Response of Blood-Based Biomarkers"
+subtitle: "*International Journal of Environmental Research and Public Health*"
+author: 
+    - <strong>Sebastian Hacker</strong>
+    - Thomas Reichel
+    - Anne Hecksteden
+    - Christopher Weyh
+    - Kristina Gebhardt
+    - Mark Pfeiffer
+    - Alexander Ferrauti
+    - Michael Kellmann
+    - Tim Meyer
+    - name: Karsten Krüger
+      email: karsten.krueger@sport.uni-giessen.de
+date: "2021-05-27"
+doi: https://doi.org/10.3390/ijerph18115776
+image: "fig1.png"
+#categories: [news]
+---
+
+# Abstract
+<hr>
+<p style="text-align: justify">
+The purpose of this study was to investigate blood-based biomarkers and their regulation with regard to different recovery-stress states. A total of 35 male elite athletes (13 badminton, 22 soccer players) were recruited, and two venous blood samples were taken: one in a ‘recovered’ state (REC) after a minimum of one-day rest from exercise and another one in a ‘non-recovered’ state (NOR) after a habitual loading microcycle. Overall, 23 blood-based biomarkers of different physiologic domains, which address inflammation, muscle damage, and tissue repair, were analyzed by Luminex assays. Across all athletes, only creatine kinase (CK), interleukin (IL-) 6, and IL-17A showed higher concentrations at NOR compared to REC time points. In badminton players, higher levels of CK and IL-17A at NOR were found. In contrast, a higher value for S100 calcium-binding protein A8 (S100A8) at REC was found in badminton players. Similar differences were found for BDNF in soccer players. Soccer players also showed increased levels of CK, and IL-6 at NOR compared to REC state. Several molecular markers were shown to be responsive to differing recoverystress states, but their suitability as biomarkers in training must be further validated.
+</p>

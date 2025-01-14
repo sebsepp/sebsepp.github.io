@@ -1,0 +1,177 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "sebastian hacker",
+    "section": "",
+    "text": "hi and welcome to my homepage! 👋\nmy name is sebastian and i’m a doctoral student at the department of  exercise physiology and sports therapy | justus liebig university giessen | germany\nmy research interests include:\n\nblood-based biomarkers for the monitoring of recovery-stress responses in athletes\nsingle nucleotide polymorphisms (SNPs) and their contribution to exercise performance\ndata-driven analysis and machine learning methods for sports science (a work in progress, but you got to start somewhere 🤓)"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "publications",
+    "section": "",
+    "text": "Vitamin D Status and Its Determinants in German Elite Athletes\n\n\nEuropean Journal of Applied Physiology\n\n\n\n\n\n\nJan 4, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow Much Can the Genotype Predict Phenotypical Power Performance in Elite Male and Female Athletes?\n\n\nJournal of Human Kinetics\n\n\n\n\n\n\nDec 6, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAdvocating individual-based profiles of elite athletes to capture the multifactorial nature of elite sports performance\n\n\nScientific Reports\n\n\n\n\n\n\nNov 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nInflammation and Cognitive Performance in Elite Athletes: A cross-sectional Study\n\n\nBrain, Behavior, & Immunity - Health\n\n\n\n\n\n\nOct 5, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAcute Inflammatory Response to Eccentric Exercise in Young and Master Resistance-trained Athletes\n\n\nInternational Journal of Sports Medicine\n\n\n\n\n\n\nJul 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBiomarkers in Endurance Exercise: Individualized Regulation and Predictive Value\n\n\nTranslational Sports Medicine\n\n\n\n\n\n\nDec 14, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAcute response of biomarkers in plasma from capillary blood after a strenuous endurance exercise bout\n\n\nEuropean Journal of Applied Physiology\n\n\n\n\n\n\nOct 13, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNeurophysiological Markers for Monitoring Exercise and Recovery Cycles in Endurance Sports\n\n\nJournal of Sports Science & Medicine\n\n\n\n\n\n\nSep 1, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRecovery-Stress Response of Blood-Based Biomarkers\n\n\nInternational Journal of Environmental Research and Public Health\n\n\n\n\n\n\nMay 27, 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAcute Effects of Aerobic Exercise on Cognitive Attention and Memory Performance: An Investigation on Duration-Based Dose-Response Relations and the Impact of Increased Arousal Levels\n\n\nJournal of Clinical Medicine\n\n\n\n\n\n\nMay 8, 2020\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/reichel-2022-neurophysiological-markers-for-monitoring-exercise-and-recovery-cycles-in-endurance-sports/index.html",
+    "href": "posts/reichel-2022-neurophysiological-markers-for-monitoring-exercise-and-recovery-cycles-in-endurance-sports/index.html",
+    "title": "Neurophysiological Markers for Monitoring Exercise and Recovery Cycles in Endurance Sports",
+    "section": "",
+    "text": "Abstract\n\n\nThe current study analyzes the suitability and reliability of selected neurophysiological and vegetative nervous system markers as biomarkers for exercise and recovery in endurance sport. Sixty-two healthy men and women, endurance trained and moderately trained, performed two identical acute endurance tests (running trial 1 and running trial 2) followed by a washout period of four weeks. Exercise protocol consisted of an acute running trial lasting 60 minutes. An intensity corresponding to 95% of the heart rate at individual anaerobic threshold for 40 minutes was followed by 20 minutes at 110%. At pre-exercise, post-exercise, three hours post-exercise and 24 hours post-exercise, experimental diagnostics on Brain-derived neurotrophic factor (BDNF), heart rate variability (HRV), Stroop Color and Word Test (SCWT), and Short-Form McGill Pain Questionnaire (SF-MPQ) were performed. Significant changes over time were found for all parameters (p &lt; .05). Furthermore, there was an approached statistical significance in the interaction between gender and training status in BDNF regulation (F(3) = 2.43; p = 0.06), while gender differences were found only for LF/HF-ratio (3hPoEx, F(3) = 3.40; p = 0.002). Regarding the reliability, poor ICC-values (&lt; 0.5) were found for BDNF, Stroop sensitivity and pNN50, while all other parameters showed moderate ICC-values (0.5-0.75). Plasma-BDNF, SCWT performance, pain perception and all HRV parameters are suitable exercise-sensitive markers after an acute endurance exercise. Moreover, pain perception, SCWT reaction time and all HRV parameters show a moderate reliability, others rather poor. In summary, a selected neurophysiological and vegetative marker panel can be used to determine exercise load and recovery in endurance sports, but its repeatability is limited due to its vaguely reliability."
+  },
+  {
+    "objectID": "posts/zentgraf-2024-advocating-individual-based-profiles-of-elite-athletes-to-capture-the-multifactorial-nature-of-elite-sports-performance/index.html",
+    "href": "posts/zentgraf-2024-advocating-individual-based-profiles-of-elite-athletes-to-capture-the-multifactorial-nature-of-elite-sports-performance/index.html",
+    "title": "Advocating individual-based profiles of elite athletes to capture the multifactorial nature of elite sports performance",
+    "section": "",
+    "text": "Abstract\n\n\nElite athletes are high-performance outliers within their specific sports. Even though science seeks to understand the nature of expertise and elite performance, much knowledge remains compartmentalized within subdisciplines. Despite this multidimensionality being acknowledged, an interdisciplinary approach to understanding elite athletes is still rare. This paper synthesizes insights across scientific domains in order to describe the population and individual characteristics of elite athletes. We analyzed diagnostic data from approximately 300 German squad athletes across eight different sports (e.g., gymnastics, volleyball, ice hockey, 3 × 3 basketball etc., agefemale = 18.95 ± 4.84 years, agemale = 19.32 ± 4.19 years) with expertise values ranging from 2 (low expertise) to 16 (high expertise). Data covered muscular strength, lower-body dynamics, muscle-power genetics, blood micronutrients, basic cognitive function, mental health, social support, and training conditions. Results of logistic regressions identified basic cognitive function (B = 0.89) and well-balanced blood micronutrients (B = 1.22) as critical factors distinguishing elite athletes. Additionally, multiple linear regressions suggested that lower-body dynamics (ß = 0.72) is related to increasing expertise values. We examined interactions between determinants of elite performance, and found that social support is positively associated with mental health and training conditions, whereas muscular strength correlates with lower-body dynamics. Focusing on top elite athletes in contrast to semi-elite athletes, we found higher within-group similarities in basic cognitive function and blood micronutrients. Findings indicate the need for a systemic, individualized, and comprehensive model using individual-based profiles."
+  },
+  {
+    "objectID": "posts/hacker-2023-biomarkers-in-endurance-exercise-individualized-regulation-and-predictive-value/index.html",
+    "href": "posts/hacker-2023-biomarkers-in-endurance-exercise-individualized-regulation-and-predictive-value/index.html",
+    "title": "Biomarkers in Endurance Exercise: Individualized Regulation and Predictive Value",
+    "section": "",
+    "text": "Abstract\n\n\nThe high interindividual variability of exercise response complicates the efficient use of blood-based biomarkers in sports. To address this problem, a useful algorithm to characterize the individual regulation and predictive value of diferent candidate markers will be developed. Forty-nine participants completed two identical exercise trials. Blood samples were collected before, immediately after, 3 hours after, and 24 hours after completion of exercise. Plasma concentrations of interleukin (IL-) 1RA, IL-6, IL-8, IL-10, IL-15, creatine kinase (CK), cortisol, c-reactive protein (CRP), lactate dehydrogenase (LDH), and thiobarbituric acid reactive substances (TBARS) were measured. Individualized regulation was analyzed using k-means clustering and a Group Assignment Quality (GAQ) score. Regression trees with a bootstrapped-aggregated approach were used to assess the predictive qualities of the markers. For most of the markers studied, a distinction can be made between individuals who show a stronger or weaker response to a particular endurance training program. The regulation of IL-6, IL-8, IL-10, and CK exhibited a high degree of stability within the individuals. Regarding the predictive power of the markers, for all dependent variables, the most accurate predictions were obtained for cortisol and IL-8 based on the baseline value. For CK, a good prediction of recovery of maximal strength and subjective feeling of exhaustion can be made. For IL-1RA and TBARS, especially their reregulation can be predicted if the baseline level is known. Focusing individual variations in biomarker responses, our results suggest the combined use of IL-6, IL-8, IL-10, and CK for the personalized management of stress and recovery cycles following endurance exercise."
+  },
+  {
+    "objectID": "posts/hacker-2025-vitamin-d-status-and-its-determinants-in-german-elite-athletes/index.html",
+    "href": "posts/hacker-2025-vitamin-d-status-and-its-determinants-in-german-elite-athletes/index.html",
+    "title": "Vitamin D Status and Its Determinants in German Elite Athletes",
+    "section": "",
+    "text": "This study investigated elite German athletes to (1) assess their serum 25(OH)D levels and the prevalence of insufficiency, (2) identify key factors influencing serum 25(OH)D levels, and (3) analyze the association between serum 25(OH) D levels and handgrip strength.\n\n\n\n\n\nIn this cross-sectional study, a total of 474 athletes (231 female), aged 13–39 years (mean 19.3 years), from ten Olympic disciplines were included. Serum 25(OH)D levels were analyzed via liquid chromatography–mass spectrometry, and 17 single nucleotide polymorphisms (SNPs) related to vitamin D metabolism were determined using leukocyte DNA. Grip strength was measured unimanually using a hand-held dynamometer. Multiple linear regressions were used to analyze the influence of SNPs, age, sex, season (summer vs. winter), and discipline (indoor vs. outdoor) on 25(OH)D status. Linear regression analyzed the relationship between handgrip strength and serum 25(OH)D levels.\n\n\n\n\n\nIn total, 55.5% (n = 263) of athletes demonstrated insufficient serum 25(OH)D levels (&lt;30 ng/mL, &lt;75 nmol/L), with 16% (n = 76) showing levels below 20 ng/mL (50 nmol/L). After correction for multiple testing, significant influences on 25(OH)D levels were observed for the C allele of VDBP rs7041 (AC Genotype: β = 7.46, p &lt; .001; CC Genotype: β = 6.23, p = .001). Age (all p &lt; .01) and discipline (indoor vs. outdoor; all p &lt; .05) also influenced serum 25(OH)D levels. Furthermore, serum 25(OH)D was positively associated with handgrip strength (β = 0.01, p &lt; .001).\n\n\n\n\n\nA high prevalence of insufficient 25(OH)D levels (&lt;30 ng/mL, &lt;75 nmol/L) was observed. We identified certain genetic variants as well as age and discipline as predictors of serum 25(OH)D levels. This knowledge may guide individualized diagnostic, nutritional, and supplementation strategies."
+  },
+  {
+    "objectID": "posts/hacker-2025-vitamin-d-status-and-its-determinants-in-german-elite-athletes/index.html#purpose",
+    "href": "posts/hacker-2025-vitamin-d-status-and-its-determinants-in-german-elite-athletes/index.html#purpose",
+    "title": "Vitamin D Status and Its Determinants in German Elite Athletes",
+    "section": "",
+    "text": "This study investigated elite German athletes to (1) assess their serum 25(OH)D levels and the prevalence of insufficiency, (2) identify key factors influencing serum 25(OH)D levels, and (3) analyze the association between serum 25(OH) D levels and handgrip strength."
+  },
+  {
+    "objectID": "posts/hacker-2025-vitamin-d-status-and-its-determinants-in-german-elite-athletes/index.html#methods",
+    "href": "posts/hacker-2025-vitamin-d-status-and-its-determinants-in-german-elite-athletes/index.html#methods",
+    "title": "Vitamin D Status and Its Determinants in German Elite Athletes",
+    "section": "",
+    "text": "In this cross-sectional study, a total of 474 athletes (231 female), aged 13–39 years (mean 19.3 years), from ten Olympic disciplines were included. Serum 25(OH)D levels were analyzed via liquid chromatography–mass spectrometry, and 17 single nucleotide polymorphisms (SNPs) related to vitamin D metabolism were determined using leukocyte DNA. Grip strength was measured unimanually using a hand-held dynamometer. Multiple linear regressions were used to analyze the influence of SNPs, age, sex, season (summer vs. winter), and discipline (indoor vs. outdoor) on 25(OH)D status. Linear regression analyzed the relationship between handgrip strength and serum 25(OH)D levels."
+  },
+  {
+    "objectID": "posts/hacker-2025-vitamin-d-status-and-its-determinants-in-german-elite-athletes/index.html#results",
+    "href": "posts/hacker-2025-vitamin-d-status-and-its-determinants-in-german-elite-athletes/index.html#results",
+    "title": "Vitamin D Status and Its Determinants in German Elite Athletes",
+    "section": "",
+    "text": "In total, 55.5% (n = 263) of athletes demonstrated insufficient serum 25(OH)D levels (&lt;30 ng/mL, &lt;75 nmol/L), with 16% (n = 76) showing levels below 20 ng/mL (50 nmol/L). After correction for multiple testing, significant influences on 25(OH)D levels were observed for the C allele of VDBP rs7041 (AC Genotype: β = 7.46, p &lt; .001; CC Genotype: β = 6.23, p = .001). Age (all p &lt; .01) and discipline (indoor vs. outdoor; all p &lt; .05) also influenced serum 25(OH)D levels. Furthermore, serum 25(OH)D was positively associated with handgrip strength (β = 0.01, p &lt; .001)."
+  },
+  {
+    "objectID": "posts/hacker-2025-vitamin-d-status-and-its-determinants-in-german-elite-athletes/index.html#conclusion",
+    "href": "posts/hacker-2025-vitamin-d-status-and-its-determinants-in-german-elite-athletes/index.html#conclusion",
+    "title": "Vitamin D Status and Its Determinants in German Elite Athletes",
+    "section": "",
+    "text": "A high prevalence of insufficient 25(OH)D levels (&lt;30 ng/mL, &lt;75 nmol/L) was observed. We identified certain genetic variants as well as age and discipline as predictors of serum 25(OH)D levels. This knowledge may guide individualized diagnostic, nutritional, and supplementation strategies."
+  },
+  {
+    "objectID": "posts/reichel-2022-acute-response-of-biomarkers-in-plasma-from-capillary-blood-after-a-strenous-endurance-exercise-bout/index.html",
+    "href": "posts/reichel-2022-acute-response-of-biomarkers-in-plasma-from-capillary-blood-after-a-strenous-endurance-exercise-bout/index.html",
+    "title": "Acute response of biomarkers in plasma from capillary blood after a strenuous endurance exercise bout",
+    "section": "",
+    "text": "The present study aims to investigate the acute response of potential exercise-sensitive biomarkers in capillary plasma to an acute incremental running test. In a second step, their concentration was compared to the changes in the venous serum.\n\n\n\n\n\nThirty-seven active young female and male adults completed a VO2max ramp test on a treadmill. Before and after exercise, capillary blood from the earlobe and venous blood were taken and synchronized. Concentrations of Interleukin- (IL-) 1β, IL-1ra, IL-6, IL-8, IL-17A, Interferon (IFN)-y, CC-chemokine ligand (CCL)-2, Matrix metallopeptidase (MMP)-9, Secreted protein acidic and rich in cysteine (SPARC), Cluster of differentiation (CD)163, S100 Ca²⁺ -binding protein (S100) A8, S100A9, S100B, Brain-derived neurotrophic factor (BDNF), and Myeloperoxidase (MPO) were determined by magnetic bead-based multiplex assay.\n\n\n\n\n\nCapillary plasma concentrations of IL-1β, IL-6, IL-8, IL-17A, IFN-y, CCL-2, MMP-9, SPARC, CD163, S100A9, S100B, and BDNF increased after exercise (p &lt; 0.05). Comparing the values from capillary plasma and venous serum, ICCs classified as good were found for IFN-y (post), while the ICCs for IL-1β, IL-8, IL-17A, CCL-2, MMP-9 (post), SPARC, and BDNF (post) were classified as moderate. For all other parameters, only weak ICCs were found.\n\n\n\n\n\nAs in the venous serum, there was an increase in most markers in the capillary plasma. However, acceptable to low associations can be found in the concentration levels of these proteins between the compartments. Thus, this source of blood sampling could find some biomarker applications in sports practice."
+  },
+  {
+    "objectID": "posts/reichel-2022-acute-response-of-biomarkers-in-plasma-from-capillary-blood-after-a-strenous-endurance-exercise-bout/index.html#purpose",
+    "href": "posts/reichel-2022-acute-response-of-biomarkers-in-plasma-from-capillary-blood-after-a-strenous-endurance-exercise-bout/index.html#purpose",
+    "title": "Acute response of biomarkers in plasma from capillary blood after a strenuous endurance exercise bout",
+    "section": "",
+    "text": "The present study aims to investigate the acute response of potential exercise-sensitive biomarkers in capillary plasma to an acute incremental running test. In a second step, their concentration was compared to the changes in the venous serum."
+  },
+  {
+    "objectID": "posts/reichel-2022-acute-response-of-biomarkers-in-plasma-from-capillary-blood-after-a-strenous-endurance-exercise-bout/index.html#methods",
+    "href": "posts/reichel-2022-acute-response-of-biomarkers-in-plasma-from-capillary-blood-after-a-strenous-endurance-exercise-bout/index.html#methods",
+    "title": "Acute response of biomarkers in plasma from capillary blood after a strenuous endurance exercise bout",
+    "section": "",
+    "text": "Thirty-seven active young female and male adults completed a VO2max ramp test on a treadmill. Before and after exercise, capillary blood from the earlobe and venous blood were taken and synchronized. Concentrations of Interleukin- (IL-) 1β, IL-1ra, IL-6, IL-8, IL-17A, Interferon (IFN)-y, CC-chemokine ligand (CCL)-2, Matrix metallopeptidase (MMP)-9, Secreted protein acidic and rich in cysteine (SPARC), Cluster of differentiation (CD)163, S100 Ca²⁺ -binding protein (S100) A8, S100A9, S100B, Brain-derived neurotrophic factor (BDNF), and Myeloperoxidase (MPO) were determined by magnetic bead-based multiplex assay."
+  },
+  {
+    "objectID": "posts/reichel-2022-acute-response-of-biomarkers-in-plasma-from-capillary-blood-after-a-strenous-endurance-exercise-bout/index.html#results",
+    "href": "posts/reichel-2022-acute-response-of-biomarkers-in-plasma-from-capillary-blood-after-a-strenous-endurance-exercise-bout/index.html#results",
+    "title": "Acute response of biomarkers in plasma from capillary blood after a strenuous endurance exercise bout",
+    "section": "",
+    "text": "Capillary plasma concentrations of IL-1β, IL-6, IL-8, IL-17A, IFN-y, CCL-2, MMP-9, SPARC, CD163, S100A9, S100B, and BDNF increased after exercise (p &lt; 0.05). Comparing the values from capillary plasma and venous serum, ICCs classified as good were found for IFN-y (post), while the ICCs for IL-1β, IL-8, IL-17A, CCL-2, MMP-9 (post), SPARC, and BDNF (post) were classified as moderate. For all other parameters, only weak ICCs were found."
+  },
+  {
+    "objectID": "posts/reichel-2022-acute-response-of-biomarkers-in-plasma-from-capillary-blood-after-a-strenous-endurance-exercise-bout/index.html#conclusion",
+    "href": "posts/reichel-2022-acute-response-of-biomarkers-in-plasma-from-capillary-blood-after-a-strenous-endurance-exercise-bout/index.html#conclusion",
+    "title": "Acute response of biomarkers in plasma from capillary blood after a strenuous endurance exercise bout",
+    "section": "",
+    "text": "As in the venous serum, there was an increase in most markers in the capillary plasma. However, acceptable to low associations can be found in the concentration levels of these proteins between the compartments. Thus, this source of blood sampling could find some biomarker applications in sports practice."
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "sebastian hacker",
+    "section": "",
+    "text": "Justus Liebig University Giessen | Germany  MSc in Clinical Exercise Physiology and Sports Therapy  Oct 2018 – Jul 2021\nGoethe University Frankfurt am Main | Germany  BA in Sports Science and Business Administration  Oct 2014 – May 2018"
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "sebastian hacker",
+    "section": "",
+    "text": "Justus Liebig University Giessen | Germany  MSc in Clinical Exercise Physiology and Sports Therapy  Oct 2018 – Jul 2021\nGoethe University Frankfurt am Main | Germany  BA in Sports Science and Business Administration  Oct 2014 – May 2018"
+  },
+  {
+    "objectID": "resume.html#experience",
+    "href": "resume.html#experience",
+    "title": "sebastian hacker",
+    "section": "Experience",
+    "text": "Experience\nJustus Liebig University Giessen | Germany  Research Associate and Doctoral Student at the Department of Exercise Physiology  Feb 2022 – present\nin:prove - Leistungsreserve Individualisierung  Research Associate in a project of the German Federal Insitute of Sport Science (BISp)  Individualized performance development in elite sport through holistic and transdisciplinary process optimization  Feb 2022 – present\n\n\n \nPersonal Training and Group Fitness  Self-employed personal trainer  Jan 2024 – present\nINJOY Gym and Swim GmbH Giessen | Germany  Personal Training and Group Fitness  Jul 2018 - Dec 2023\nFC Giessen 1927 Teutonia 1900 VfB e.V.  Athletic Training and Diagnostics  Jun 2020 - Jul 2022"
+  },
+  {
+    "objectID": "resume.html#teaching-activity",
+    "href": "resume.html#teaching-activity",
+    "title": "sebastian hacker",
+    "section": "Teaching activity",
+    "text": "Teaching activity\nJustus Liebig University Giessen | Germany \n\nScience Communication (“Wissenschaftskommunikation”) \n\nWinter 2023 & 2024\n\n(Group) Training in Orthopaedic Rehabilitation (“[Gruppen-]Training in der orthopädischen Rehabilitation”) \n\nWinter 2022, 2023 & 2024 \n\nOrthopaedic Rehabilitation in Competitive Sports (“Orthopädische Rehabilitation im Leistungssport”) \n\nSummer 2022\nGoethe University Frankfurt am Main | Germany \n\nScientific Tutor in Exercise Physiology \n\nSummer 2016 & 2017"
+  },
+  {
+    "objectID": "posts/hacker-2020-acute-effects-of-aerobic-exercise-on-cognitive-attention-and-memory-performance-an-investigation-on-duration-based-dose-response-relations-and-the-impact-of-increased-arousal-levels/index.html",
+    "href": "posts/hacker-2020-acute-effects-of-aerobic-exercise-on-cognitive-attention-and-memory-performance-an-investigation-on-duration-based-dose-response-relations-and-the-impact-of-increased-arousal-levels/index.html",
+    "title": "Acute Effects of Aerobic Exercise on Cognitive Attention and Memory Performance: An Investigation on Duration-Based Dose-Response Relations and the Impact of Increased Arousal Levels",
+    "section": "",
+    "text": "Abstract\n\n\nCurrent evidence indicates that acute aerobic exercise might increase domain-specific cognitive performance. However, only a small number of studies deduced the impact on lower and higher cognitive functions systematically or analyzed dose–response relationships and the underlying mechanisms. This study aimed to expose the dose–response relationships by investigating the influence of exercise duration on subjective and objective arousal, cognitive attention and visual recognition memory tasks. Nineteen participants (eight female; 25.69 ± 3.11 years) were included in a randomized, three-armed intervention study in a cross-over design. The participants completed three different interventions consisting of either 15, 30 or 45 min of cycling at 60–70% VO2max. Arousal and cognitive measurements were taken before and immediately after (&lt;2 min) exercise. All three interventions led to significant but comparable effects on self-perceived arousal, heart rate (HR) and rating of perceived exertion (RPE) (p &lt; 0.05). Analysis of variance (ANOVA) indicated significant effects of exercise duration on visual recognition memory accuracy. Reaction times for higher and lower cognitive tasks did not change after exercise. Fifteen minutes of aerobic exercise was feasible to induce beneficial changes in self-perceived arousal. Processing speed of visual recognition memory and attention remained unaltered. Exercise exceeding fifteen minutes seemed to negatively impact visual recognition memory accuracy."
+  },
+  {
+    "objectID": "posts/reichert-2025-how-much-can-the-genotype-predict-phenotypical-power-performance-in-elite-male-and-female-athletes/index.html",
+    "href": "posts/reichert-2025-how-much-can-the-genotype-predict-phenotypical-power-performance-in-elite-male-and-female-athletes/index.html",
+    "title": "How Much Can the Genotype Predict Phenotypical Power Performance in Elite Male and Female Athletes?",
+    "section": "",
+    "text": "Abstract\n\n\nThe role of power performance in elite athletes has been enriched by identifying associations between specific single nucleotide polymorphisms (SNPs) and power performance. To deepen our understanding of this association, the objective of this study was to explore the relationship between the genotype and the phenotype in elite athletes. A total of 278 German national squad athletes (156 males, 122 females) underwent genotyping, and their performance in a countermovement jump test (CMJ) and 10-m sprint was assessed. Genotype distribution was analyzed using Chi-square tests. Spearman correlation was employed to examine associations between selected SNPs (e.g., ACTN3, AGT, HSD17B14, IP6K3, MTRR, UCP2, and VDR) and CMJ and sprint performances. Gender-specific polygenic “Total Genotype Scores” (TGSsig) were calculated. Predictive power of TGSsig on power performance was evaluated using linear regression. TGSsig explained 10% of variance in CMJ and sprint performance in both genders. Among males, correlations were identified between AGT and VDR with the CMJ as well as between IP6K3 and sprint performance (p &lt; 0.05). In females, ACTN3, AGT, and UCP2 exhibited associations with the CMJ, while HSD17B14, MTRR, and UCP2 were correlated with sprint performance (p &lt; 0.05). Significant differences in genotype distribution between genders were observed for DMD and MPRIP. Our findings strengthen the idea of power being partly heritable, however, the genotype only partially, by 10%, determines power performance. The role of the athletes’ genotype for individual performance development should be investigated in future longitudinal studies."
+  },
+  {
+    "objectID": "posts/minuzzi-2024-acute-inflammatory-response-to-eccentric-exercise-in-young-and-master-resistance-trained-athletes/index.html",
+    "href": "posts/minuzzi-2024-acute-inflammatory-response-to-eccentric-exercise-in-young-and-master-resistance-trained-athletes/index.html",
+    "title": "Acute Inflammatory Response to Eccentric Exercise in Young and Master Resistance-trained Athletes",
+    "section": "",
+    "text": "Abstract\n\n\nThis study aimed to compare the acute inflammatory response following high-intensity eccentric exercise between resistance-trained young and master athletes with similar performance levels. Resistance-trained young (n=8; 22±2 years) and master (n=8; 52±4 years) male athletes of a similar performance level performed a standardized high-intensity eccentric squat exercise protocol (10 sets of half-squats at 70% of 1-repetition maximum). The serum concentration of 20 biomarkers related to tissue damage, inflammation, remodeling, and repair was measured at baseline, immediately after exercise, and over a 72 h recovery period. Both groups experienced similar muscle damage as evidenced by a comparable increase in creatine kinase activity 24 h after exercise (p&lt;0.001). Interleukin-6 (p=0.009) and growth hormone (p&lt;0.001) increased immediately post-exercise in both groups. Monocyte chemoattractant protein-1 increased immediately post-exercise only in young athletes (p=0.003) and then decreased 24 h later. There were no significant differences for the remaining variables, including cell markers related to neutrophil/macrophage activation or pro/anti-inflammatory cytokines. Resistance-trained young and master athletes, matched for performance level, showed an overall similar inflammatory response to eccentric exercise, possibly reflecting regulatory mechanisms or immunological adaptations to chronic stimulation in master athletes."
+  },
+  {
+    "objectID": "posts/wiedenbrüg-2024-inflammation-and-cognitive-performance-in-elite-athletes-a-cross-sectional-study/index.html",
+    "href": "posts/wiedenbrüg-2024-inflammation-and-cognitive-performance-in-elite-athletes-a-cross-sectional-study/index.html",
+    "title": "Inflammation and Cognitive Performance in Elite Athletes: A cross-sectional Study",
+    "section": "",
+    "text": "Abstract\n\n\nFunctional cognition is relevant for athletic success and interdependent with physical exercise, yet despite repeatedly demonstrated inflammatory responses to physical training, there are no studies addressing the relationship between cognition and inflammation in athletes. The aim of this study was to investigate the relationship between cognitive performance and selected inflammatory, and further physiological biomarkers in elite athletes. Data from 350 elite athletes regarding cognitive performance (processing speed, selective attention, working memory, cognitive flexibility), systemic inflammatory markers, metabolic hormones, growth factors, tissue damage markers, and micronutrients (e.g., ferritin, 25-OH-vitamin D), as well as physiological, subjective ratings of recovery and stress were analysed by correlative and multiple regression analyses. Results show that across all athletes variance in processing speed, selective attention, and working memory, could be best explained through a combination of metabolic hormones with physiological and psychological indicators of stress, and in cognitive flexibility through vitamin D levels. Only for the subgroup of athletes from closed-skill sports, the ratio TNF-α:IL-10 significantly contributed to explanation of variance in working memory and cognitive flexibility. In general, found correlations point to the importance of inflammatory balance and sufficient long-term nutrient supply for unaffected cognitive performance."
+  },
+  {
+    "objectID": "posts/hacker-2021-recovery-stress-response-of-blood-based-biomarkers/index.html",
+    "href": "posts/hacker-2021-recovery-stress-response-of-blood-based-biomarkers/index.html",
+    "title": "Recovery-Stress Response of Blood-Based Biomarkers",
+    "section": "",
+    "text": "Abstract\n\n\nThe purpose of this study was to investigate blood-based biomarkers and their regulation with regard to different recovery-stress states. A total of 35 male elite athletes (13 badminton, 22 soccer players) were recruited, and two venous blood samples were taken: one in a ‘recovered’ state (REC) after a minimum of one-day rest from exercise and another one in a ‘non-recovered’ state (NOR) after a habitual loading microcycle. Overall, 23 blood-based biomarkers of different physiologic domains, which address inflammation, muscle damage, and tissue repair, were analyzed by Luminex assays. Across all athletes, only creatine kinase (CK), interleukin (IL-) 6, and IL-17A showed higher concentrations at NOR compared to REC time points. In badminton players, higher levels of CK and IL-17A at NOR were found. In contrast, a higher value for S100 calcium-binding protein A8 (S100A8) at REC was found in badminton players. Similar differences were found for BDNF in soccer players. Soccer players also showed increased levels of CK, and IL-6 at NOR compared to REC state. Several molecular markers were shown to be responsive to differing recoverystress states, but their suitability as biomarkers in training must be further validated."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "about",
+    "section": "",
+    "text": "hi 👋"
+  }
+]

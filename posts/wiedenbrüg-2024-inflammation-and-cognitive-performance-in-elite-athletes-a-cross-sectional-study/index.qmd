@@ -1,0 +1,24 @@
+---
+title: "Inflammation and Cognitive Performance in Elite Athletes: A cross-sectional Study"
+subtitle: "*Brain, Behavior, & Immunity - Health*"
+author: 
+    - name: Kati Wiedenbrüg
+      email: "kati.wiedenbrueg@student.uni-halle.de"
+    - Laura Will
+    - Lukas Reichert
+    - <strong>Sebastian Hacker</strong>
+    - Claudia Lenz
+    - Karen Zentgraf
+    - Markus Raab
+    - Karsten Krüger
+date: "2024-10-05"
+doi: https://doi.org/10.1016/j.bbih.2024.100872
+image: "fig1-snippet.png"
+#categories: [news]
+---
+
+# Abstract
+<hr>
+<p style="text-align: justify">
+Functional cognition is relevant for athletic success and interdependent with physical exercise, yet despite repeatedly demonstrated inflammatory responses to physical training, there are no studies addressing the relationship between cognition and inflammation in athletes. The aim of this study was to investigate the relationship between cognitive performance and selected inflammatory, and further physiological biomarkers in elite athletes. Data from 350 elite athletes regarding cognitive performance (processing speed, selective attention, working memory, cognitive flexibility), systemic inflammatory markers, metabolic hormones, growth factors, tissue damage markers, and micronutrients (e.g., ferritin, 25-OH-vitamin D), as well as physiological, subjective ratings of recovery and stress were analysed by correlative and multiple regression analyses. Results show that across all athletes variance in processing speed, selective attention, and working memory, could be best explained through a combination of metabolic hormones with physiological and psychological indicators of stress, and in cognitive flexibility through vitamin D levels. Only for the subgroup of athletes from closed-skill sports, the ratio TNF-α:IL-10 significantly contributed to explanation of variance in working memory and cognitive flexibility. In general, found correlations point to the importance of inflammatory balance and sufficient long-term nutrient supply for unaffected cognitive performance.
+</p>

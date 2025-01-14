@@ -1,0 +1,23 @@
+---
+title: "How Much Can the Genotype Predict Phenotypical Power Performance in Elite Male and Female Athletes?"
+subtitle: "*Journal of Human Kinetics*"
+author: 
+    - name: Lukas Reichert
+      email: reichert@sport.uni-frankfurt.de
+    - <strong>Sebastian Hacker</strong>
+    - Michael Mutz
+    - Markus Raab
+    - Lena Wiese
+    - Karsten Krüger
+    - Karen Zentgraf
+date: "2024-12-06"
+doi: https://doi.org/10.5114/jhk/190679
+image: "fig1-snippet.png"
+#categories: [news]
+---
+
+# Abstract
+<hr>
+<p style="text-align: justify">
+The role of power performance in elite athletes has been enriched by identifying associations between specific single nucleotide polymorphisms (SNPs) and power performance. To deepen our understanding of this association, the objective of this study was to explore the relationship between the genotype and the phenotype in elite athletes. A total of 278 German national squad athletes (156 males, 122 females) underwent genotyping, and their performance in a countermovement jump test (CMJ) and 10-m sprint was assessed. Genotype distribution was analyzed using Chi-square tests. Spearman correlation was employed to examine associations between selected SNPs (e.g., ACTN3, AGT, HSD17B14, IP6K3, MTRR, UCP2, and VDR) and CMJ and sprint performances. Gender-specific polygenic "Total Genotype Scores" (TGSsig) were calculated. Predictive power of TGSsig on power performance was evaluated using linear regression. TGSsig explained 10% of variance in CMJ and sprint performance in both genders. Among males, correlations were identified between AGT and VDR with the CMJ as well as between IP6K3 and sprint performance (p < 0.05). In females, ACTN3, AGT, and UCP2 exhibited associations with the CMJ, while HSD17B14, MTRR, and UCP2 were correlated with sprint performance (p < 0.05). Significant differences in genotype distribution between genders were observed for DMD and MPRIP. Our findings strengthen the idea of power being partly heritable, however, the genotype only partially, by 10%, determines power performance. The role of the athletes' genotype for individual performance development should be investigated in future longitudinal studies.
+</p>

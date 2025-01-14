@@ -1,0 +1,60 @@
+---
+title: ""
+format: html
+---
+
+## Education
+
+**Justus Liebig University Giessen \| Germany** <br> MSc in Clinical Exercise Physiology and Sports Therapy <br> *Oct 2018 – Jul 2021*
+
+**Goethe University Frankfurt am Main \| Germany** <br> BA in Sports Science and Business Administration <br> *Oct 2014 – May 2018*
+
+## Experience
+
+**Justus Liebig University Giessen \| Germany** <br> Research Associate and Doctoral Student at the Department of Exercise Physiology <br> *Feb 2022 – present*
+
+**in:prove - Leistungsreserve Individualisierung** <br> Research Associate in a project of the German Federal Insitute of Sport Science (BISp) <br> *Individualized performance development in elite sport through holistic and transdisciplinary process optimization* <br> *Feb 2022 – present*
+
+::: column-margin
+<br> [![](images/inprove_logo.png)](https://inprove.info){target="_blank"}
+:::
+
+**Personal Training and Group Fitness** <br> Self-employed personal trainer <br> *Jan 2024 – present*
+
+**INJOY Gym and Swim GmbH Giessen \| Germany** <br> Personal Training and Group Fitness <br> *Jul 2018 - Dec 2023*
+
+**FC Giessen 1927 Teutonia 1900 VfB e.V.** <br> Athletic Training and Diagnostics <br> *Jun 2020 - Jul 2022*
+
+## Teaching activity
+
+**Justus Liebig University Giessen \| Germany** <br>
+
+-   Science Communication ("Wissenschaftskommunikation") <br>
+
+*Winter 2023 & 2024*
+
+-   (Group) Training in Orthopaedic Rehabilitation ("\[Gruppen-\]Training in der orthopädischen Rehabilitation") <br>
+
+*Winter 2022, 2023 & 2024* <br>
+
+-   Orthopaedic Rehabilitation in Competitive Sports ("Orthopädische Rehabilitation im Leistungssport") <br>
+
+*Summer 2022*
+
+**Goethe University Frankfurt am Main \| Germany** <br>
+
+-   Scientific Tutor in Exercise Physiology <br>
+
+*Summer 2016 & 2017*
+
+```{=html}
+<!-- ::::: columns
+::: {.column width="40%"}
+![](images/inprove_logo.png){width="250"}
+:::
+
+::: {.column width="60%"}
+![](images/leistungsphysiologie%20-%20combo%20black.svg){width="250"}
+:::
+::::: -->
+```

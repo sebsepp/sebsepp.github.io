@@ -1,0 +1,41 @@
+---
+title: "Biomarkers in Endurance Exercise: Individualized Regulation and Predictive Value"
+subtitle: "*Translational Sports Medicine*"
+author:
+  - name: <strong>Sebastian Hacker</strong>
+    email: sebastian.hacker@sport.uni-giessen.de
+    affiliations:
+      - ref: jlu
+  - name: Johannes Keck
+    # affiliations:
+    #   - ref: jlu
+  - name: Thomas Reichel
+    # affiliations:
+    #   - ref: jlu
+  - name: Klaus Eder
+    # affiliations:
+    #   - ref: jlu
+  - name: Robert Ringseis
+    # affiliations:
+    #   - ref: jlu
+  - name: Karsten Krüger
+    # affiliations:
+    #   - ref: jlu
+  - name: Britta Krüger
+    # affiliations:
+    #   - ref: jlu
+affiliations:
+  - id: jlu
+    name: Justus Liebig University Giessen
+    city: Gießen
+date: "2023-12-14"
+doi: https://doi.org/10.1155/2023/6614990
+#categories: [research, code, analysis]
+image: "fig1-snippet.png"
+---
+
+# Abstract
+<hr>
+<p style="text-align: justify">
+The high interindividual variability of exercise response complicates the efficient use of blood-based biomarkers in sports. To address this problem, a useful algorithm to characterize the individual regulation and predictive value of diferent candidate markers will be developed. Forty-nine participants completed two identical exercise trials. Blood samples were collected before, immediately after, 3 hours after, and 24 hours after completion of exercise. Plasma concentrations of interleukin (IL-) 1RA, IL-6, IL-8, IL-10, IL-15, creatine kinase (CK), cortisol, c-reactive protein (CRP), lactate dehydrogenase (LDH), and thiobarbituric acid reactive substances (TBARS) were measured. Individualized regulation was analyzed using k-means clustering and a Group Assignment Quality (GAQ) score. Regression trees with a bootstrapped-aggregated approach were used to assess the predictive qualities of the markers. For most of the markers studied, a distinction can be made between individuals who show a stronger or weaker response to a particular endurance training program. The regulation of IL-6, IL-8, IL-10, and CK exhibited a high degree of stability within the individuals. Regarding the predictive power of the markers, for all dependent variables, the most accurate predictions were obtained for cortisol and IL-8 based on the baseline value. For CK, a good prediction of recovery of maximal strength and subjective feeling of exhaustion can be made. For IL-1RA and TBARS, especially their reregulation can be predicted if the baseline level is known. Focusing individual variations in biomarker responses, our results suggest the combined use of IL-6, IL-8, IL-10, and CK for the personalized management of stress and recovery cycles following endurance exercise.
+</p>

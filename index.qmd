@@ -1,0 +1,30 @@
+---
+title: "sebastian hacker"
+image: images/portrait.jpeg
+about:
+  template: jolla
+  image-width: 20em
+  image-shape: round
+  links:
+    - icon: github
+      text: github
+      href: https://www.github.com/sebsepp
+      target: blank
+    - icon: linkedin
+      text: linkedin
+      href: https://www.linkedin.com/in/sebastianhacker
+      target: blank
+    - icon: envelope
+      text: contact
+      href: mailto:sebastian.hacker@sport.uni-giessen.de
+---
+
+hi and welcome to my homepage! 👋
+
+my name is sebastian and i'm a doctoral student at the department of <br> exercise physiology and sports therapy \| justus liebig university giessen \| germany
+
+my research interests include:
+
+-   blood-based biomarkers for the monitoring of recovery-stress responses in athletes
+-   single nucleotide polymorphisms (SNPs) and their contribution to exercise performance
+-   data-driven analysis and machine learning methods for sports science (*a work in progress, but you got to start somewhere* 🤓)
